@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/myfantacyworld/Documents/Backend/back/target/debug/build/mime_guess-c7fad96bd61da619/out/mime_types_generated.rs
